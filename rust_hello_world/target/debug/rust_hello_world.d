@@ -1,0 +1,1 @@
+C:\Users\User\Downloads\School\NJIT\YWCC307\Rust\Assignment\ 1\rust_hello_world\target\debug\rust_hello_world.exe: C:\Users\User\Downloads\School\NJIT\YWCC307\Rust\Assignment\ 1\rust_hello_world\src\main.rs
